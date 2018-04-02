@@ -1,0 +1,29 @@
+{
+  "name": "crmadmin",
+  "version": "1.0.0",
+  "description": "style guide for crm",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:YaroslavLavrinenko/CrmStyleGuide.git"
+  },
+  "author": "Lavrinenko Yaroslav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaroslavLavrinenko/CrmStyleGuide/issues"
+  },
+  "homepage": "https://github.com/YaroslavLavrinenko/CrmStyleGuide#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.0"
+  }
+}
